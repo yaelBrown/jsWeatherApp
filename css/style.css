@@ -9,8 +9,8 @@ body {
   display: flex;
   justify-content: center;
   flex-direction: column;
+  background: linear-gradient(rgb(237,59,59), rgb(85,0,99));
   align-items: center;
-  background: linear-gradient(rgb(47,150,163), rgb(48,32,143));
   font-family: sans-serif;
   color: #fff;
 }
@@ -48,3 +48,19 @@ body {
   font-size: 40px;
 }
 
+/*
+  Yael Section
+*/
+
+.yaelSection {
+  padding-top: 30px;
+  text-align: center;
+}
+
+.yaelSection a {
+  color: #00BCD4;
+}
+
+.yaelSection h3 {
+  margin: 10px;
+}

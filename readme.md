@@ -1,3 +1,7 @@
-https://www.youtube.com/watch?v=wPElVpR1rwA&list=WL&index=8&t=0s
+A Javascript Weather APP using DarkSky Weather API created with HTML and Vanila Javascript
 
-19:57
+Features: 
+  - Uses Javascript API calls
+  - Vanila Javascript
+  - Parsing of recieved Javascript data 
+  - Skycons icons and HTML canvas tags
